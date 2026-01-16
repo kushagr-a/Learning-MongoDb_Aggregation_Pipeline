@@ -249,6 +249,6 @@ options : "<options>" // Optional, e.g., "i" case-insensitive search
 //     },
 //   },
 //   {
-//     $out: "Hyundai_car", // collection bna ke store krwa dega ye temporary database mein.
+//     $out: "Hyundai_car", // collection bna ke store krwa dega ye temporary database mein. 
 //   },
 // ]);
